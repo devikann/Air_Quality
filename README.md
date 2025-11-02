@@ -24,8 +24,3 @@ The default configuration focuses on **Delhi, India**, one of the most polluted 
 - **Exploratory Data Analysis (EDA):** Generates trend plots and correlation heatmaps.  
 - **Model Evaluation:** Uses **Mean Squared Error (MSE)** for performance measurement.  
 - **Interactive Testing:** Allows users to input a custom sequence for live PM2.5 prediction.
-
----
-
-## 🗂️ Project Structure
-
